@@ -65,6 +65,8 @@ Kluczowe Terminy:
 
 Data rozpoczęcia: 05.10.2025 
 
+Data zakończenia: 23.11.2025
+
 Przewidywana data zakończenia: 2x.1.2026
 
 
